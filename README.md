@@ -9,6 +9,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwvr-lwlbPLa5_RYSOssaPDR
 
 01. Youtube Clone - 来吧，克隆个 Youtube 吧！
 02. Netflix Clone - Youtube还不够？再克隆个 Netflix 吧！
+03. React.js 播放视频啦！我也做个 Youtube 吧！
 
 ## 课程分类
 
