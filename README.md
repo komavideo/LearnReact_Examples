@@ -11,6 +11,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwvr-lwlbPLa5_RYSOssaPDR
 02. Netflix Clone - Youtube还不够？再克隆个 Netflix 吧！
 03. React.js 播放视频啦！我也做个 Youtube 吧！
 04. Tailwind Mobile - 利用 Tailwind CSS 建立漂亮的手机应用
+05. MATERIAL UI - 漂亮的 React 组件，实现更快、更轻松的 Web 开发体验
 
 ## 课程分类
 
